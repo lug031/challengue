@@ -1,0 +1,15 @@
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\config\InventoryTestDatabaseSeeder.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\controller\InventoryController.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\domain\Product.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\dto\AllocatedItemResponse.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\dto\AllocateInventoryRequest.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\dto\AllocateInventoryResponse.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\dto\AllocateItemRequest.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\error\InsufficientStockException.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\error\InventoryExceptionHandler.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\error\InventoryInvalidRequestException.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\error\ProductNotFoundException.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\InventoryApplication.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\repository\ProductRepository.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\service\DefaultInventoryService.java
+D:\appweb\challengue\inventory-service\src\main\java\com\challenge\inventory\service\InventoryService.java

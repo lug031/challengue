@@ -1,0 +1,15 @@
+spring:
+  r2dbc:
+    generate-unique-name: false
+  sql:
+    init:
+      mode: always
+      schema-locations: classpath:/schema.sql
+      data-locations: classpath:/data.sql
+
+  datasource:
+    url: jdbc:h2:mem:///inventorydb
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+
