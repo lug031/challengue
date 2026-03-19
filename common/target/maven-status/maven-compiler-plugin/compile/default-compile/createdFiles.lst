@@ -1,5 +1,0 @@
-com\challenge\common\contracts\inventory\AllocateItemRequest.class
-com\challenge\common\contracts\inventory\AllocateInventoryRequest.class
-com\challenge\common\contracts\inventory\AllocatedItemResponse.class
-com\challenge\common\api\ApiError.class
-com\challenge\common\contracts\inventory\AllocateInventoryResponse.class
