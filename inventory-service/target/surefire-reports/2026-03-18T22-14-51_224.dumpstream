@@ -1,0 +1,5 @@
+# Created at 2026-03-18T22:14:53.625
+Boot Manifest-JAR contains absolute paths in classpath 'D:\appweb\challengue\inventory-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

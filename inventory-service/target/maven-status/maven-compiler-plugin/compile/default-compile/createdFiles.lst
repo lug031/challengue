@@ -1,0 +1,15 @@
+com\challenge\inventory\dto\AllocateInventoryRequest.class
+com\challenge\inventory\dto\AllocateInventoryResponse.class
+com\challenge\inventory\dto\AllocateItemRequest.class
+com\challenge\inventory\controller\InventoryController.class
+com\challenge\inventory\service\DefaultInventoryService.class
+com\challenge\inventory\service\InventoryService.class
+com\challenge\inventory\config\InventoryTestDatabaseSeeder.class
+com\challenge\inventory\error\InsufficientStockException.class
+com\challenge\inventory\repository\ProductRepository.class
+com\challenge\inventory\domain\Product.class
+com\challenge\inventory\error\InventoryInvalidRequestException.class
+com\challenge\inventory\error\ProductNotFoundException.class
+com\challenge\inventory\dto\AllocatedItemResponse.class
+com\challenge\inventory\InventoryApplication.class
+com\challenge\inventory\error\InventoryExceptionHandler.class

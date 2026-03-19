@@ -1,0 +1,9 @@
+spring:
+  r2dbc:
+    generate-unique-name: false
+  sql:
+    init:
+      mode: always
+      schema-locations: classpath:orders/schema.sql
+      data-locations: classpath:orders/data.sql
+
